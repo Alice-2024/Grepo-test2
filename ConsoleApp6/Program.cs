@@ -28,4 +28,9 @@ Console.WriteLine("Hello, World!");
 //master2222222222222222
 //test2
 //test22
+<<<<<<< HEAD
 //aa
+=======
+//test2
+//master1
+>>>>>>> master
