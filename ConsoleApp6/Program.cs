@@ -1,37 +1,25 @@
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 //aaa
-//bbbb
+//bbbb22
+//bbbb11
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");//11
-//dd
-//ee
-//111
+Console.WriteLine("Hello, World!");
 //22
 Console.WriteLine("Hello, World!");
+//1111aaaaa1111
 Console.WriteLine("Hello, World!");
-//test0908
-//test11
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-//test1
-//test11111
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-//aaaa
-Console.WriteLine("Hello, World!");
-//aaaa
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-//test1
-//aabb
-//aaaa
-//bb
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-//11
+//332222
+//2222
+//22222
+//22
+//22
+//222
+//222
+//2222
+//2222
+//222222333
+//2222222222222222bbbbb
+//222222222222222222222222222222222222222222222223333
